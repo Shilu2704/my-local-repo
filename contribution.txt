@@ -1,0 +1,48 @@
+✨ Collaboration Workflow Summary
+This project demonstrates GitHub collaboration between two accounts: 2704Abhishek (Account A) and Shilu2704 (Account B).
+
+Steps Followed:
+Account A (2704Abhishek):
+
+Created the GitHub repository my-local-repo.
+
+Added initial files and committed to the master branch.
+
+Account B (Shilu2704):
+
+Forked the repository from Account A.
+
+Cloned the fork locally and created a new branch: feature-update.
+
+Added feature.txt and contributor.txt to demonstrate collaboration.
+
+Pushed the changes to their fork and created a Pull Request to the original repo.
+
+Account A (2704Abhishek):
+
+Reviewed the Pull Request.
+
+Attempted to merge but encountered a merge conflict in contributor.txt.
+
+Manually resolved the conflict by editing the file.
+
+Completed the merge and pushed changes.
+
+🛠️ Challenges Faced:
+Merge Conflict: Occurred due to simultaneous additions to contributor.txt.
+
+Solution: Opened the file, resolved the conflicting sections manually by keeping both contributions, and committed the resolved version.
+
+✅ 2. Verification
+Add a few screenshots or links in the same document or keep them in a screenshots/ folder in the repo.
+
+Here’s a structure you can follow:
+
+📷 Verification Screenshots & Links
+Original Repository Link: my-local-repo
+
+Pull Request from Account B:
+
+Merge Conflict Resolution:
+
+Final Commit After Conflict Resolution:
